@@ -1,1 +1,3 @@
-
+video filenamed code is to convert video into frames after removing unwanted frames.
+cluster function is to cluster all the images in the imageset using kmeans algorithm
+queryhist is to clusterize the query image
